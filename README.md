@@ -1,4 +1,16 @@
-# Redittask
+# Developed a Reddit Blog
+
+Created a simple RedditLite interface. Specifically, a subreddit viewer that displays few posts . 
+
+# Choosen Criteria
+
+● Display 25 posts at a time from the selected subreddit (pagination not required)
+● Refresh subreddit posts every minute without losing scroll position
+● Each post will display:
+   ○ The title, linking to the shared post or site
+   ○ A link to the comments
+   ○ The username of the person who submitted the post
+   ○ The time posted
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
 
